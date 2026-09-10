@@ -1,0 +1,47 @@
+Id CommandLine
+  -- -----------
+   1 try { . "c:\Program Files\Microsoft VS Code\resources\app\out\vs\workbench\contrib\terminal\common\scripts\shellIntegration.ps1" } catch {}      
+   2 git init
+   3 code README.md
+   4 cd App
+   5 code main.py
+   6 code configuracion.py
+   7 cd "PS C:\Users\196262-8\Documents\Catalogo_Recursos"
+   8 cd "C:\Users\196262-8\Documents\Catalogo_Recursos"
+   9 cd Data
+  10 code recursos.json
+  11 cd "C:\Users\196262-8\Documents\Catalogo_Recursos"
+  12 cd Docs
+  13 code alcance.md
+  14 code criterios.md
+  15 code respuestas.md
+  16 mkdir evidencias
+  17 cd evidencias
+  18 cd "C:\Users\196262-8\Documents\Catalogo_Recursos"
+  19 cd Tests
+  20 code test_basico.py
+  21 cd "C:\Users\196262-8\Documents\Catalogo_Recursos"
+  22 code .gitignore
+  23 pip freeze
+  24 python -m venv .venv
+  25 .venv\Scripts\activate
+  26 code CHANGELOG.md
+  27 ls
+  28 python --version
+  29 pip --version
+  30 pip install requests rich
+  31 pip list
+  32 pip freeze
+  33 pip freeze > requirements.txt
+  34 git status
+  35 git log --oneline
+  36 git add .
+  37 git status
+  38 git commit -m "Inicializacion del proyecto"
+  39 git status
+  40 git add .
+  41 git status
+  42 git commit -m "Integracion de un 3er recurso"
+  43 git status
+  44 git add .
+  45 git commit -m "Nueva seccion en README.md"
