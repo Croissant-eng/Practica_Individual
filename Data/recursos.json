@@ -12,6 +12,13 @@
         "Rama_de_Ciencia": "Recursos Humanos", 
         "Importancia": "Media", 
         "Urgencia": "Alta"
+    },
+    {
+        "Num_Registro": 3,
+        "Materia": "Administracion", 
+        "Rama_de_Ciencia": "Recursos Humanos", 
+        "Importancia": "Media", 
+        "Urgencia": "Alta"
     }
     ]
 }
