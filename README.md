@@ -32,3 +32,5 @@ Tecnologias:
 - Crear un entrono virtual en el directorio donde se vaya a ejecutar el programa
 - Instalar todas las dependecias y librerias
 - Ejecutar main.py
+
+## Proximas mejoras
