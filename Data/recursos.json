@@ -1,0 +1,17 @@
+{
+    "Registros": [
+        {"Num_Registro": 1,
+        "Materia": "Fisica", 
+        "Rama_de_Ciencia": "Estatica", 
+        "Importancia": "Alta", 
+        "Urgencia": "Baja"
+    },
+    {
+        "Num_Registro": 2,
+        "Materia": "Administracion", 
+        "Rama_de_Ciencia": "Recursos Humanos", 
+        "Importancia": "Media", 
+        "Urgencia": "Alta"
+    }
+    ]
+}
